@@ -20,3 +20,5 @@ I’m also a teaching assistant in the Department of Mathematics. I’ve always 
 When I’m not working or studying, I enjoy working out and cooking. I’ve recently gotten into playing video games – I’ve found it very fulfilling to play intentionally and focus on improving.
 
 I’m always up for learning something new, whether it’s in tech, math, or life in general!
+
+Visit my website [here](http://xuestella03.github.io/).
